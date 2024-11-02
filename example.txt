@@ -1,0 +1,16 @@
+Producer Program Output:
+
+Producer placed item in position 0: A
+Producer placed item in position 1: B
+Producer placed item in position 0: C
+Producer placed item in position 1: D
+Producer placed item in position 0: E
+
+
+Consumer Program Output:
+
+Consumer picked up item from position 0: A
+Consumer picked up item from position 1: B
+Consumer picked up item from position 0: C
+Consumer picked up item from position 1: D
+Consumer picked up item from position 0: E
